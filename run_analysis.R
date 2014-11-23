@@ -1,3 +1,11 @@
+## This function extracts data from the UCI HAR Dataset and formats it into an 
+## organized and readable table. It combines training data and test data and 
+## then adds subject id numbers and activity name labels to each observation. 
+## The observations are then filtered so that only the subject ids, labels, and
+## measurements of means and standard deviations remain. From there, the
+## observation data is averaged across unique pairs of subject id and activity.
+## The summarized data is then written into a table named summarized_data.txt.
+
 run_analysis <- function(){
      
      ## Set the directory
