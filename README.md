@@ -11,6 +11,6 @@ The course for this project is the "Getting and Cleaning Data" offered by Johns 
 
 The project guidelines can be found at https://class.coursera.org/getdata-009/human_grading/view/courses/972587/assessments/3/submissions
 
-The original dataset is located can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The original dataset can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 A decription for the dataset can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
